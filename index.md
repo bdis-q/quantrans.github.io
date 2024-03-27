@@ -1,8 +1,8 @@
-# QuanTrans: Transforming Quantum Circuits to Minimize Communication in Distributed Simulations
+# QuanTrans: Transforming Quantum Circuits to Minimize Communications in Distributed Simulations
 
 ## Overview
 
-The code will be fully open source after the article is published. 
+The code will be open source after the article is published. 
 
 [[code]]()
 
